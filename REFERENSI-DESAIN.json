@@ -1,0 +1,415 @@
+{
+  "checked_at": "2026-10-28",
+  "method": "Peninjauan struktur informasi melalui halaman resmi yang dapat diakses. Keputusan visual merupakan interpretasi desain proyek, bukan klaim penilaian piksel atau sertifikasi sumber.",
+  "copyright": "Use original composition, wording and existing licensed project assets. Do not copy reference logos, photographs, claims, testimonials, metrics or page markup.",
+  "references": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "url": "https://www.apple.com/",
+      "observations": [
+        "Hierarki produk, pencarian, dan tindakan utama dibedakan dengan jelas."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "url": "https://stripe.com/",
+      "observations": [
+        "Navigasi produk dan solusi mendukung penelusuran kebutuhan bisnis."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "aman",
+      "name": "Aman",
+      "url": "https://www.aman.com/",
+      "observations": [
+        "Destinasi dan reservasi membentuk jalur utama pengalaman hospitalitas."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "fourseasons",
+      "name": "Four Seasons",
+      "url": "https://www.fourseasons.com/",
+      "observations": [
+        "Pilihan menginap, bersantap, dan pengalaman disajikan dalam kelompok terarah."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "porsche",
+      "name": "Porsche",
+      "url": "https://www.porsche.com/",
+      "observations": [
+        "Model dibedakan melalui karakter penggunaan dan informasi pendukung."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "hermanmiller",
+      "name": "Herman Miller",
+      "url": "https://www.hermanmiller.com/products/",
+      "observations": [
+        "Produk, material, dan sumber perencanaan ditempatkan dalam konteks penggunaan."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "moma",
+      "name": "MoMA",
+      "url": "https://www.moma.org/",
+      "observations": [
+        "Koleksi, pameran, dan panduan kunjungan memiliki jalur yang berbeda."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "observations": [
+        "Rubrik dan analisis membantu pembaca menelusuri konteks berita."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "url": "https://www.nasa.gov/",
+      "observations": [
+        "Informasi misi dan penelitian dihubungkan dengan materi penjelas."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "mit",
+      "name": "MIT",
+      "url": "https://www.mit.edu/",
+      "observations": [
+        "Pendidikan, riset, dan kehidupan institusi membentuk kelompok informasi."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "dhl",
+      "name": "DHL",
+      "url": "https://www.dhl.com/id-en/home.html",
+      "observations": [
+        "Pelacakan, pilihan layanan, dan kebutuhan pengiriman menjadi tindakan terpisah."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/",
+      "observations": [
+        "Keahlian dan studi kasus memberi konteks pada penawaran layanan."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "unicef",
+      "name": "UNICEF",
+      "url": "https://www.unicef.org/",
+      "observations": [
+        "Program, cerita, dan bentuk keterlibatan membangun alur informasi organisasi."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "mayoclinic",
+      "name": "Mayo Clinic",
+      "url": "https://www.mayoclinic.org/",
+      "observations": [
+        "Layanan, profil dokter, dan panduan pasien memiliki akses yang jelas."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "govuk",
+      "name": "GOV.UK",
+      "url": "https://www.gov.uk/",
+      "observations": [
+        "Informasi layanan disusun menurut kebutuhan dan tugas pengguna."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "patagonia",
+      "name": "Patagonia",
+      "url": "https://www.patagonia.com/",
+      "observations": [
+        "Produk, penggunaan, perawatan, dan cerita mendukung keputusan pembaca."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "pentagram",
+      "name": "Pentagram",
+      "url": "https://www.pentagram.com/",
+      "observations": [
+        "Portfolio dapat ditelusuri melalui sektor dan disiplin desain."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "aesop",
+      "name": "Aesop",
+      "url": "https://www.aesop.com/",
+      "observations": [
+        "Kategori dan panduan pilihan produk mendukung penelusuran kebutuhan."
+      ],
+      "access_note": "Sebagian teks sumber menampilkan pemberitahuan fungsi terbatas; digunakan hanya untuk struktur kategori."
+    },
+    {
+      "id": "kinfolk",
+      "name": "Kinfolk",
+      "url": "https://www.kinfolk.com/",
+      "observations": [
+        "Cerita editorial menghubungkan gambar, tema, dan jalur bacaan."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "modernhouse",
+      "name": "The Modern House",
+      "url": "https://www.themodernhouse.com/",
+      "observations": [
+        "Properti dilengkapi konteks ruang, publikasi, dan akses informasi."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "qantas",
+      "name": "Qantas",
+      "url": "https://www.qantas.com/en-au",
+      "observations": [
+        "Pencarian perjalanan dipisahkan dari pengelolaan dan panduan penumpang."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "url": "https://mubi.com/en",
+      "observations": [
+        "Program, pangkalan film, dan editorial membentuk jalur penemuan sinema."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "kew",
+      "name": "Royal Botanic Gardens, Kew",
+      "url": "https://www.kew.org/",
+      "observations": [
+        "Kunjungan, program, dan konteks tumbuhan menjadi jalur yang saling mendukung."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    },
+    {
+      "id": "ibm",
+      "name": "IBM Design Language",
+      "url": "https://www.ibm.com/design/language/",
+      "observations": [
+        "Tipografi, warna, dan grid diperlakukan sebagai fondasi sistem yang konsisten."
+      ],
+      "access_note": "Struktur halaman berhasil dibaca."
+    }
+  ],
+  "cross_site_design_rules": [
+    "Pertahankan identitas visual setiap merek dan gunakan skala tipografi serta pola interaksi yang konsisten.",
+    "Utamakan navigasi berbasis kebutuhan, tindakan yang jelas, serta konteks halaman detail.",
+    "Gunakan font lokal dan aset proyek; jangan salin logo, foto, slogan, statistik, atau markup situs referensi.",
+    "Animasi tambahan berjalan satu kali dan dinonaktifkan ketika pengguna memilih pengurangan gerak.",
+    "Kontras token latar, teks, aksen, dan footer dihitung; ini bukan audit aksesibilitas penuh.",
+    "Rute, JavaScript bisnis, struktur data, dan guard tetap dipertahankan."
+  ],
+  "demo_reference_map": [
+    {
+      "demo": "ARUVA",
+      "sector": "Hospitalitas",
+      "homepage": "legacy-resort-index.html",
+      "references": [
+        "aman",
+        "fourseasons"
+      ]
+    },
+    {
+      "demo": "EMBRA",
+      "sector": "Kuliner",
+      "homepage": "legacy-culinary-index.html",
+      "references": [
+        "fourseasons",
+        "aesop"
+      ]
+    },
+    {
+      "demo": "M&M INTERIOR",
+      "sector": "Arsitektur & interior",
+      "homepage": "interior-index.html",
+      "references": [
+        "hermanmiller",
+        "modernhouse"
+      ]
+    },
+    {
+      "demo": "KYNTRA",
+      "sector": "Otomotif",
+      "homepage": "automotive-index.html",
+      "references": [
+        "porsche",
+        "apple"
+      ]
+    },
+    {
+      "demo": "ORVYN",
+      "sector": "Fesyen",
+      "homepage": "fashion-index.html",
+      "references": [
+        "patagonia",
+        "aesop"
+      ]
+    },
+    {
+      "demo": "RUANG SELA",
+      "sector": "Seni & museum",
+      "homepage": "ruangsela-index.html",
+      "references": [
+        "moma"
+      ]
+    },
+    {
+      "demo": "GRIDORA",
+      "sector": "Properti",
+      "homepage": "gridora-index.html",
+      "references": [
+        "modernhouse"
+      ]
+    },
+    {
+      "demo": "MULTI USAHA MANDIRI",
+      "sector": "Pengadaan & proyek",
+      "homepage": "mum-index.html",
+      "references": [
+        "dhl",
+        "ibm"
+      ]
+    },
+    {
+      "demo": "DIRAC",
+      "sector": "Teknologi & digital",
+      "homepage": "dirac-index.html",
+      "references": [
+        "stripe",
+        "ibm"
+      ]
+    },
+    {
+      "demo": "DIRAC CONSULTING",
+      "sector": "Konsultasi bisnis",
+      "homepage": "konsultan-index.html",
+      "references": [
+        "mckinsey"
+      ]
+    },
+    {
+      "demo": "VEYRA & ARCTON",
+      "sector": "Jasa profesional",
+      "homepage": "legacy-legal-index.html",
+      "references": [
+        "mckinsey",
+        "govuk"
+      ]
+    },
+    {
+      "demo": "NADIYA",
+      "sector": "Kesehatan",
+      "homepage": "legacy-healthcare-index.html",
+      "references": [
+        "mayoclinic"
+      ]
+    },
+    {
+      "demo": "NAWASENA",
+      "sector": "Layanan publik",
+      "homepage": "nawasena-index.html",
+      "references": [
+        "govuk"
+      ]
+    },
+    {
+      "demo": "LUMORA PRIVATE",
+      "sector": "Keuangan",
+      "homepage": "lumora-index.html",
+      "references": [
+        "stripe",
+        "govuk"
+      ]
+    },
+    {
+      "demo": "NORTHLINE",
+      "sector": "Logistik",
+      "homepage": "northline-index.html",
+      "references": [
+        "dhl"
+      ]
+    },
+    {
+      "demo": "EMBERLINE GRID",
+      "sector": "Energi",
+      "homepage": "emberline-index.html",
+      "references": [
+        "govuk",
+        "ibm"
+      ]
+    },
+    {
+      "demo": "RUTE BAIK",
+      "sector": "Organisasi sosial",
+      "homepage": "impact-index.html",
+      "references": [
+        "unicef"
+      ]
+    },
+    {
+      "demo": "KABARARUS",
+      "sector": "Media & penerbitan",
+      "homepage": "publication-index.html",
+      "references": [
+        "reuters",
+        "kinfolk"
+      ]
+    },
+    {
+      "demo": "METRIKA ACADEMY",
+      "sector": "Pendidikan",
+      "homepage": "legacy-academy-index.html",
+      "references": [
+        "mit",
+        "pentagram"
+      ]
+    },
+    {
+      "demo": "VANTARA",
+      "sector": "Karier & rekrutmen",
+      "homepage": "vantara-index.html",
+      "references": [
+        "govuk",
+        "mckinsey"
+      ]
+    },
+    {
+      "demo": "LUMENFOLD BIOSCIENCES",
+      "sector": "Riset & sains",
+      "homepage": "lumenfold-index.html",
+      "references": [
+        "mit",
+        "nasa"
+      ]
+    }
+  ]
+}
